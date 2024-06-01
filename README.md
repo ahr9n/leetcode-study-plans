@@ -1,1 +1,1 @@
-# leetcode-study-plans
+# LeetCode Study Plans
